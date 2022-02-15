@@ -1,0 +1,17 @@
+@media( max-width:767px){
+nav{
+  section{
+      display: flex;
+      flex-direction: column;
+      
+      width: 100%;
+    .nn{
+      position: relative;
+      left: 150px;
+    }
+  }
+}
+}
+main{
+  font-size: small;
+}

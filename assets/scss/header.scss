@@ -1,0 +1,31 @@
+.menu-do-site{
+  background-color: $cor-primaria;
+  padding: 20px 0px;
+  section{
+    align-items: baseline;
+
+    article{
+       img{
+          width: 130px;
+          height: 35px;
+    }
+
+    }
+   
+    article{
+        a{
+          text-decoration: none;
+          svg{
+          color: $branco;
+          margin: 10px;
+          
+          width: 30px;
+          height: 30px;
+          
+        }
+        }
+         
+      }
+  }
+  
+}

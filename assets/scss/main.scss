@@ -1,0 +1,55 @@
+main{
+  margin: 0 auto;
+     div{
+       margin-bottom: 2px;
+         div{
+             div{
+             color: $branco;
+             position: relative;
+               .caixa{
+                position: absolute;
+                text-align: center;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                
+       
+         }
+       }  
+    }
+  } 
+  .sec-1{
+    text-align: center;
+    
+    
+    article{
+      h2{
+      text-transform: uppercase;
+      }
+    }
+    
+    .lapis{
+      position: relative;
+      top: 25px;
+    }
+    h3{
+      margin-top: 20px;
+    }
+  }
+  
+  .sec-2{
+    background-color: rgb(246, 242, 237); 
+    article{
+      position: relative;
+      top: 40px;
+      .total{
+       margin: 20px;
+        
+      }
+    }
+  }
+
+  .sec-3{
+    margin-top: 30px;
+  }
+}
